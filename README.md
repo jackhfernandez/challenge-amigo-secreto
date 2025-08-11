@@ -2,7 +2,9 @@
 
 Una aplicación web interactiva para sortear amigos secretos de manera aleatoria. Perfecta para organizar intercambios de regalos entre amigos, familia o compañeros de trabajo.
 
-[**¡Visita el juego aquí!**](https://https://jackhfernandez.github.io/challenge-amigo-secreto/)
+## 🎮 Juega Ahora
+
+[**¡Visita el juego aquí!**](https://jackhfernandez.github.io/challenge-amigo-secreto/)
 
 ## 🌟 Características
 
