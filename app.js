@@ -55,3 +55,16 @@ function sortearAmigo() {
   const resultado = document.getElementById("resultado");
   resultado.innerHTML = `El amigo secreto es: ${amigoSorteado}`;
 }
+
+// Agregar con enter
+function agregarConEnter(event) {
+  if (event.key === "Enter") {
+    agregarAmigo();
+  }
+}
+
+// Agregar el event listener cuando se carga la pagina
+document.addEventListener("DOMContentLoaded", function () {
+  const inputAmigo = document.getElementById("amigo");
+  inputAmigo.addEventListener("keypress", agregarConEnter);
+});
