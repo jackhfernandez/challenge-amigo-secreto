@@ -2,6 +2,8 @@
 
 Una aplicación web interactiva para sortear amigos secretos de manera aleatoria. Perfecta para organizar intercambios de regalos entre amigos, familia o compañeros de trabajo.
 
+[**¡Visita el juego aquí!**](https://https://jackhfernandez.github.io/challenge-amigo-secreto/)
+
 ## 🌟 Características
 
 - ✅ Agregar nombres de amigos a una lista
@@ -94,6 +96,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detal
 - [ ] Temas de colores personalizables
 - [ ] Animaciones en el sorteo
 
-<br>Creado por Fernandez Reyes.<br><br>
+Creado por Fernandez Reyes.<br>
 
 ¡Disfruta organizando tus intercambios de amigo secreto! 🎉
